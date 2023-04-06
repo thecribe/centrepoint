@@ -15,7 +15,8 @@ const router = createBrowserRouter(
       <Route path="/" element={<p>ttesting Routing</p>} />
       <Route path="/start-a-project" element={<Project />} />
     </Route>
-  )
+  ),
+  { basename: "/centrepoint" }
 );
 
 const App = () => {
