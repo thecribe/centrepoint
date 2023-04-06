@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/centrepoint/static/css/main.61925d26.css",
-    "main.js": "/centrepoint/static/js/main.be8d0b4b.js",
+    "main.js": "/centrepoint/static/js/main.140793e6.js",
     "static/js/787.bc5a5060.chunk.js": "/centrepoint/static/js/787.bc5a5060.chunk.js",
     "static/media/image2.png": "/centrepoint/static/media/image2.4efcf955894f9c8fb4f4.png",
     "static/media/d-image6.jpeg": "/centrepoint/static/media/d-image6.9384c714d9c200fb0133.jpeg",
@@ -18,11 +18,11 @@
     "static/media/sitelogo.svg": "/centrepoint/static/media/sitelogo.692882b983d513452659ed41c2e51b5a.svg",
     "index.html": "/centrepoint/index.html",
     "main.61925d26.css.map": "/centrepoint/static/css/main.61925d26.css.map",
-    "main.be8d0b4b.js.map": "/centrepoint/static/js/main.be8d0b4b.js.map",
+    "main.140793e6.js.map": "/centrepoint/static/js/main.140793e6.js.map",
     "787.bc5a5060.chunk.js.map": "/centrepoint/static/js/787.bc5a5060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.61925d26.css",
-    "static/js/main.be8d0b4b.js"
+    "static/js/main.140793e6.js"
   ]
 }
