@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/centrepoint/static/css/main.61925d26.css",
+    "main.js": "/centrepoint/static/js/main.be8d0b4b.js",
+    "static/js/787.bc5a5060.chunk.js": "/centrepoint/static/js/787.bc5a5060.chunk.js",
+    "static/media/image2.png": "/centrepoint/static/media/image2.4efcf955894f9c8fb4f4.png",
+    "static/media/d-image6.jpeg": "/centrepoint/static/media/d-image6.9384c714d9c200fb0133.jpeg",
+    "static/media/d-image9.jpeg": "/centrepoint/static/media/d-image9.79a35767c7e330ab918d.jpeg",
+    "static/media/d-image8.jpeg": "/centrepoint/static/media/d-image8.af19a2404418f9c22243.jpeg",
+    "static/media/d-image1.jpeg": "/centrepoint/static/media/d-image1.dee6828a33ea9384e0aa.jpeg",
+    "static/media/d-image7.jpeg": "/centrepoint/static/media/d-image7.a707812a6b3bb61efebe.jpeg",
+    "static/media/d-image5.jpeg": "/centrepoint/static/media/d-image5.c34c30b38ab7bafa35c1.jpeg",
+    "static/media/image1.png": "/centrepoint/static/media/image1.d1c25c828b753e35b411.png",
+    "static/media/d-image3.jpeg": "/centrepoint/static/media/d-image3.bb2025ef7aac6b4a469e.jpeg",
+    "static/media/d-image2.jpeg": "/centrepoint/static/media/d-image2.89e6560e14f1d580720d.jpeg",
+    "static/media/d-image4.jpeg": "/centrepoint/static/media/d-image4.dd59cf2a514c1b98efd7.jpeg",
+    "static/media/sitelogo2.svg": "/centrepoint/static/media/sitelogo2.fe78ea9752e6678345356487291a1e14.svg",
+    "static/media/sitelogo.svg": "/centrepoint/static/media/sitelogo.692882b983d513452659ed41c2e51b5a.svg",
+    "index.html": "/centrepoint/index.html",
+    "main.61925d26.css.map": "/centrepoint/static/css/main.61925d26.css.map",
+    "main.be8d0b4b.js.map": "/centrepoint/static/js/main.be8d0b4b.js.map",
+    "787.bc5a5060.chunk.js.map": "/centrepoint/static/js/787.bc5a5060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61925d26.css",
+    "static/js/main.be8d0b4b.js"
+  ]
+}
